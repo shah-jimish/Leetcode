@@ -1,0 +1,15 @@
+/home/jimish/Desktop/leetcode/Leetcode/test/bin/Debug/net8.0/test
+/home/jimish/Desktop/leetcode/Leetcode/test/bin/Debug/net8.0/test.deps.json
+/home/jimish/Desktop/leetcode/Leetcode/test/bin/Debug/net8.0/test.runtimeconfig.json
+/home/jimish/Desktop/leetcode/Leetcode/test/bin/Debug/net8.0/test.dll
+/home/jimish/Desktop/leetcode/Leetcode/test/bin/Debug/net8.0/test.pdb
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.sourcelink.json
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.dll
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/refint/test.dll
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.pdb
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/home/jimish/Desktop/leetcode/Leetcode/test/obj/Debug/net8.0/ref/test.dll
