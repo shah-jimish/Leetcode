@@ -1,0 +1,15 @@
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/bin/Debug/net8.0/GridTravel
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/bin/Debug/net8.0/GridTravel.deps.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/bin/Debug/net8.0/GridTravel.runtimeconfig.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/bin/Debug/net8.0/GridTravel.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/bin/Debug/net8.0/GridTravel.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.AssemblyInfoInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.AssemblyInfo.cs
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.csproj.CoreCompileInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.sourcelink.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/refint/GridTravel.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/GridTravel.genruntimeconfig.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/GridTravel/obj/Debug/net8.0/ref/GridTravel.dll

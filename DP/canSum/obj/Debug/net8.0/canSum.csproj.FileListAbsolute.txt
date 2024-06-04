@@ -1,0 +1,15 @@
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.AssemblyInfoInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.AssemblyInfo.cs
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.csproj.CoreCompileInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.sourcelink.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/bin/Debug/net8.0/canSum
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/bin/Debug/net8.0/canSum.deps.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/bin/Debug/net8.0/canSum.runtimeconfig.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/bin/Debug/net8.0/canSum.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/bin/Debug/net8.0/canSum.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/refint/canSum.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/canSum.genruntimeconfig.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/canSum/obj/Debug/net8.0/ref/canSum.dll

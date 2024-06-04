@@ -1,0 +1,15 @@
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/bin/Debug/net8.0/canConstruct
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/bin/Debug/net8.0/canConstruct.deps.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/bin/Debug/net8.0/canConstruct.runtimeconfig.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/bin/Debug/net8.0/canConstruct.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/bin/Debug/net8.0/canConstruct.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.AssemblyInfoInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.AssemblyInfo.cs
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.csproj.CoreCompileInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.sourcelink.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/refint/canConstruct.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/canConstruct.genruntimeconfig.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/canConstruct/obj/Debug/net8.0/ref/canConstruct.dll

@@ -1,0 +1,15 @@
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/bin/Debug/net8.0/bestWay
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/bin/Debug/net8.0/bestWay.deps.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/bin/Debug/net8.0/bestWay.runtimeconfig.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/bin/Debug/net8.0/bestWay.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/bin/Debug/net8.0/bestWay.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.AssemblyInfoInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.AssemblyInfo.cs
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.csproj.CoreCompileInputs.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.sourcelink.json
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/refint/bestWay.dll
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.pdb
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/bestWay.genruntimeconfig.cache
+/home/jimish/Desktop/leetcode/Leetcode/DP/bestWay/obj/Debug/net8.0/ref/bestWay.dll
